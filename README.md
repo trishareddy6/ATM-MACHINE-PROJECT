@@ -3,5 +3,7 @@ This project is a basic simulation of an ATM (Automated Teller Machine) using Ob
 
 
 Technologies Used:
-Language: Java (Core Java)
+
+Language: Java 
+
 Tools: Eclipse 
